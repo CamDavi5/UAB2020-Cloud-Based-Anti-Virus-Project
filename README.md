@@ -24,7 +24,7 @@ RealPython Boto3 to S3 Tutorial https://realpython.com/python-boto3-aws-s3/#:~:t
 7. Contact: camrhys@uab.edu
 
 Project Team:
-Cameron Davis
-Phillip Brasfield
-Adrianna Bowen
-Valeen Oseh-Ovarah
+- Cameron Davis
+- Phillip Brasfield
+- Adrianna Bowen
+- Valeen Oseh-Ovarah
