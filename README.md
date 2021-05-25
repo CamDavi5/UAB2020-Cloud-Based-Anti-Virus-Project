@@ -23,6 +23,10 @@ RealPython Boto3 to S3 Tutorial https://realpython.com/python-boto3-aws-s3/#:~:t
     ~ Thankfully the tutorial shared in Resources was very useful in getting the Boto3 connected to S3, and then from there you need knowledge of connecting to EC2 and the "wget" command to download the file. Though this is a small piece of the final project the transfer of files from local storage to S3 and S3 to EC2 is fundamental and cannot be overlooked. This code will likely be built upon and integrated in the user agent. 
 7. Contact: camrhys@uab.edu
 
+Demo Video
+
+[![](http://img.youtube.com/vi/DQfe8tGSVFs/0.jpg)](http://www.youtube.com/watch?v=DQfe8tGSVFs)
+
 Project Team:
 - Cameron Davis
 - Phillip Brasfield
